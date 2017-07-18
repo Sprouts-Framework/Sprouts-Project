@@ -8,6 +8,7 @@ Sprouts Framework provee una plantilla diseñada para facilitar la implementaci�
 - [Introducción](#introducción)
 - [Características y tecnologías](#características-y-tecnologías)
 - [Documentación](#documentación)
+- [Ejemplos](#ejemplos)
 - [Sobre nosotros](#sobre-nosotros)
 - [Licencia](#licencia)
 - [TODO](#todo)
@@ -32,6 +33,11 @@ Sprouts Framework se basa en Spring MVC 3. Provee al desarrollador una plantilla
 Puede encontrar la documentación a través de los siguientes enlaces. Por el momento, sólo está disponible en español.
 - [Getting started](https://github.com/Sprouts-Framework/Sprouts-Project/blob/master/doc/Sprouts%20Framework%20-%20Getting%20Sarted.pdf): este documento proporciona una visión holística del framework. Si sigue esta guía, será capaz de instanciar un proyecto con Sprouts y crear casos de uso básicos.
 - [Manual de usuario](https://github.com/Sprouts-Framework/Sprouts-Project/blob/master/doc/Sprouts%20Framework%20-%20%20Manual%20de%20Usuario.pdf): contiene una descripción técnica profunda sobre Sprouts Framework. Explica y justifica la implementación de cada aspecto y componente del framework.
+
+## Ejemplos
+Hay dos proyectos de ejemplo desarrollados con Sprouts Framework. Recomendamos encarecidamente usarlos para aprender a usar este framework:
+- [Acme Barter](https://github.com/Sprouts-Framework/Acme-Barter)
+- [Acme Six-Pack](https://github.com/Sprouts-Framework/Acme-Six-Pack)
 
 ## Sobre nosotros
 Somos un grupo de estudiantes de Ingeniería del Software de la Universidad de Sevilla, en España.
