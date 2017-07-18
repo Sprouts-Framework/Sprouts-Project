@@ -14,7 +14,7 @@ Sprouts Framework provides you with a templeate devised to ease use case impleme
 - [Troubleshooting](#troubleshooting)
 
 ## Introduction 
-Sprouts Framework is based on Spring MVC 3. It provides a template with many classes . Thanks to this template, you will spend less time in developing use cases, since it abstracts you from repetitive tasks that may derive in code errors and bugs. Thanks to this abstraction, you will be able to develop case uses in less than two minutes.
+Sprouts Framework is based on Spring MVC 3. It provides a template that ease the use case implementation. Thanks to this, you will spend less time in developing use cases, since it abstracts you from repetitive tasks that may derive in code errors and bugs. With this abstraction, you will be able to develop case uses in less than two minutes.
 ## Features and technologies
 - [Spring MVC](http://projects.spring.io/spring-framework/) 3 as backend.
 - [JSP](http://www.oracle.com/technetwork/java/javaee/jsp/index.html) for HTML generation.
