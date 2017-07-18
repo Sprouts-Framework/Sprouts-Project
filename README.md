@@ -1,6 +1,6 @@
 <img src="https://github.com/Sprouts-Framework/Sprouts-Project/blob/master/doc/img/Sprouts%20-%20Banner.png" width="500">
 
-Also available in [Spanish](doc/README_ES.md)
+También disponible en [español](doc/README_ES.md)
 # Sprouts Framework
 Sprouts Framework provides you with a templeate devised to ease use case implementation. The main objective is to reduce development cost.
 
