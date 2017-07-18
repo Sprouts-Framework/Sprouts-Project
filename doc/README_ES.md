@@ -1,4 +1,4 @@
-También disponible en [inglés](#/README.md)
+TambiÃ©n disponible en [inglÃ©s](/README.md)
 
 # Sprouts Framework
 Sprouts Framework provides you with a templeate devised to ease use case implementation. The main objective is to reduce development cost.
